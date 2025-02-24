@@ -18,7 +18,7 @@ function mixedNumbers(arr) {
     // Only change code above this line
     return arr;
   }
-  
+    
   console.log(mixedNumbers(['IV', 5, 'six']));
 
   //4
